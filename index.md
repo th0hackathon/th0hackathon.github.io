@@ -77,9 +77,7 @@ layout: null
           <div class="wrap aligncenter">
             <h1 class="text-landing">Portfolios</h1>
             <p class="text-symbols">* * * </p>
-            <p><a class="button ghost" href="https://webslides.tv/webslides-latest.zip" title="Download WebSlides for free"><svg class="fa-cloud-download">
-                <use xlink:href="#fa-cloud-download"></use>
-              </svg> WebSlides</a>
+            <p><a class="button ghost" href="https://webslides.tv/webslides-latest.zip" title="Download WebSlides for free"><svg class="fa-cloud-download"><use xlink:href="#fa-cloud-download"></use></svg> WebSlides</a>
             </p>
           </div>
         </section>
