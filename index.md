@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-layout: null
+layout: slideshow
 ---
 <html lang="en" prefix="og: http://ogp.me/ns#">
   <head>
